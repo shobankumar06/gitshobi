@@ -1,0 +1,26 @@
+cd.. -back to the folder(2 times)
+md <foldername>
+cd <foldername>
+search c program collection github
+download folder and extract
+cd filename
+username
+usermail
+create a new respository
+git init
+git add<filename>
+git commit -m"added"
+create a new repository
+git init
+git add README.MD
+git commit -m"first commit"
+git branch -M main
+git remote add origin<link>
+git push -u origin main
+
+git remote add origin main
+///see what happens///
+git remote add origin <link>
+git branch -M main
+git push -u origin main
+
